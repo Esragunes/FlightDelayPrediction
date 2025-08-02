@@ -49,6 +49,11 @@ Download or clone this repository. You can open the notebooks in Google Colab or
 - `FlightDelayPrediction.ipynb`: Jupyter Notebook with full code and explanations.  
 
 ---
+## Dataset
+
+The dataset used in this project is too large to be hosted here.  
+You can download it directly from Kaggle:  
+[Flight Delay Dataset on Kaggle](https://www.kaggle.com/datasets/your-dataset-link)
 
 ## Author
 
